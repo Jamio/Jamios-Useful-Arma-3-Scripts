@@ -29,6 +29,8 @@ _this addItemCargoGlobal ["ACE_tourniquet", 10];
 
 4. Check that the addActions in this script link to the correct paths for your personalised boxes and rename the actions
 
+5. Initiliase the box spawner from the init.sqf with: [] execVM "scripts\boxspawner.sqf";
+
 
 */
 
