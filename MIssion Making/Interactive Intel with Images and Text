@@ -1,0 +1,7 @@
+HOW TO USE:
+
+1. Place down intel item, such as notebook, file, laptop etc.
+
+2. Insert into init of object: ["init", [this, "image.jpg", "Text message"]] call BIS_fnc_initLeaflet
+
+3. Change "image.jpg" to image path you want players to see, and "text message" to standard text that players will see when they read the intel
