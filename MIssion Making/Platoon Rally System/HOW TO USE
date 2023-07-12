@@ -1,0 +1,18 @@
+/*
+HOW TO USE:
+
+1. Place the Jamio - Rally Point System Composition in the editor
+
+2. Assign squad leaders by putting the following into the init of SLs:
+
+null = [this] execVM "RallyPoint\WsquadRP1.sqf";
+
+3. Replace WsquadRP1 with 1-4 depending on number of SLs
+
+4. Add all the sqf files to a folder called "RallyPoint" in the mission root
+
+5. Check that the paths match
+
+
+
+*/  
