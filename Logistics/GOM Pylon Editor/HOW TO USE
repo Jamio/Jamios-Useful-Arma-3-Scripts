@@ -1,0 +1,16 @@
+/*
+HOW TO USE:
+
+1. Add functions and dialogs to GOM folder in mission file
+
+2. Place trigger area for pylon editor - ANY PLAYER, Present, Repeatable, Server Only, 
+Condition - this, 
+On Activation - [thislist] remoteexec ["GOM_fnc_addAircraftLoadoutArea",[0,-2] select isDedicated];
+
+3. Place Container nearby with this in init: 
+
+[this,10000] call GOM_fnc_setRepairCargo;
+[this,10000] call GOM_fnc_setFuelCargo; 
+[this,10000] call GOM_fnc_setAmmoCargo;
+
+*/
