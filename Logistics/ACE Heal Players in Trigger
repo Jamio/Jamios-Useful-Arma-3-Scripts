@@ -1,0 +1,9 @@
+HOW TO USE:
+
+1. Create Trigger - BLUFOR, Present, Repeatable
+
+2. Condition - this
+
+3. On Activation - {[objNull, _x] call ace_medical_treatment_fnc_fullHeal} forEach thisList;
+
+
