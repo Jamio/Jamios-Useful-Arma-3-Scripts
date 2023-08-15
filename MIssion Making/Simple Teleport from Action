@@ -1,0 +1,12 @@
+/*
+1. Create an object, can be anything
+
+2. Apply the code below to the objects init
+
+3. Adjust the action name and the setPos and getPos to the position of another object or use setPos coordinates
+
+*/
+
+
+
+this addAction ["Travel to Pleiku Boat Base", {player setPos (getPos teleport2)}]
