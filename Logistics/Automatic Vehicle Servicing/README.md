@@ -36,6 +36,7 @@ _In the On Activation field of your trigger, input the following code:_
 
 ```
 call{_handle = [(thisList select 0)] execVM "scripts\ServiceGround.sqf";}
+```
 
 
 
