@@ -34,7 +34,7 @@ doctor_1 addAction
  "" ];
 
 ```
-_This code makes a variable _list, and searches within 10 metres of the doctor_1 object for entities under the Cfg class "Man". It then iterates through them and conducts the fullHealLocal function from ACE medical._
+This code makes a variable _list, and searches within 10 metres of the ```doctor_1``` object for entities under the Cfg class "Man". It then iterates through them and conducts the fullHealLocal function from ACE medical.
 
 
 ## Additional Notes
