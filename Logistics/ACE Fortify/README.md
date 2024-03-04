@@ -32,9 +32,9 @@ _Check that the path matches your location, and test._
 
 
 
-_More than 3 presets can be used by adding another preset code. Probably best done by copyinge everything from another and pasting it at the bottom of the script. Variables will need to be renamed obviously._
+_More than 3 presets can be used by adding another preset code. Probably best done by copying everything from another and pasting it at the bottom of the script. Variables will need to be renamed obviously._
 
 
 
 ## Additional Notes
-
+This script was built off of code supplied by OverlordZorn on the ACE Discord and then updated by me. All thanks in getting this set up go to him.
